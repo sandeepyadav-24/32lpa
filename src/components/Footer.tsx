@@ -29,8 +29,8 @@ const Footer = () => {
             Codefox
           </div>
           <div className="md:w-1/2 text-[#808684]">
-            Built in the <span className="text-[#3670FF]">college Library</span>
-            . Made with{" "}
+            Built in the <span className="text-[#3670FF]">college Dorm</span>.
+            Made with{" "}
             <a href="https://ui.shadcn.com/" className="text-[#3670FF]">
               ShadcnUi
             </a>
