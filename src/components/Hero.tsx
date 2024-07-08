@@ -31,12 +31,12 @@ const Hero = () => {
           </h1>
           <AvatarCircles avatarUrls={avatarUrls} />
           <h3 className="text-[#787878] text-xl my-5">
-            Stay ahead of the competition with detailed insights on companies
-            visiting our campus.
+            Your go-to platform for upcoming company visits, preparation tips,
+            past visit archives, and DSA test leaderboards.
           </h3>
           <ShimmerButton shimmerColor="#EAE8FD" />
         </div>
-        <div className="">Here Put some Nice Diagram and Pictures</div>
+        <div className="py-20">Here Put some Nice Diagram and Pictures</div>
       </div>
       <div className="flex flex-row mx-20 my-10">
         <div className="w-1/5">
